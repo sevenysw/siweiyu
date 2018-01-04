@@ -1,16 +1,18 @@
 # Personal information
 
+### Siwei Yu
+
 ### Lecture, Department of Mathematics
 
 ### Harbin Institute of Technology
 
 ### Harbin 150001, China
 
-## Contact
+# Contact
 
 ### siweiyu@hit.edu.cn
 
-## Education
+# Education
 
 ### 2006-2010, Tsinghua University, B.S. in Aerospace Engineering
 
@@ -20,7 +22,7 @@
 
 ### 2014-2016, University of California, Los Angeles, Visiting student in Mathematics Department, Supervisor: Prof. Stanley Osher
 
-## Work experience
+# Work experience
 
 ## 2017.05 - now, Lecture in Harbin Institute of Technology
 
