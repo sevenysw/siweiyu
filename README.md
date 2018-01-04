@@ -51,3 +51,21 @@
 ### 2, S. Yu, A. S. Khwaja, J. Ma*. Compressed sensing of complex-valued data, Signal Processing, 2012, 92 (2), 357-362.
 
 ### 1, L. Kong, S. Yu, L. Cheng, H. Yang, Application of compressive sensing to seismic data reconstruction, ACTA SEISMOLOGICA SINICA, 2012, 34 (5), 659-666
+
+# Research Interests
+
+### Optimization algoirthm, Compressive sensing, Deep learning
+
+### Signal processing, Seismic data processing
+
+# Links
+
+### HIT(http://www.hit.edu.cn/)
+
+### HIT Math Department(http://math.hit.edu.cn/)
+
+### UCLA CAM(http://www.math.ucla.edu/applied/cam/)
+
+### MyPlayground(http://1950751q0x.iok.la/)
+
+### HIT homepage(http://homepage.hit.edu.cn/pages/siweiyu)
