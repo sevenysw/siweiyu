@@ -62,9 +62,9 @@ Optimization algoirthm, Compressive sensing, Deep learning
 
 Signal processing, Seismic data processing
 
-# [CV](CV-SiweiYu.pdf)
-
 # Links
+
+[CV](CV-SiweiYu.pdf)
 
 [HIT](http://www.hit.edu.cn/)
 
