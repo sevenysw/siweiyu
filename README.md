@@ -72,6 +72,6 @@ Signal processing, Seismic data processing
 
 [UCLA CAM](http://www.math.ucla.edu/applied/cam/)
 
-[MyPlaygroun]d(http://1950751q0x.iok.la/)
+[MyPlayground](http://1950751q0x.iok.la/)
 
 [HIT homepage](http://homepage.hit.edu.cn/pages/siweiyu)
