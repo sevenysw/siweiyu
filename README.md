@@ -30,7 +30,7 @@ siweiyu@hit.edu.cn
 
 # Publication
 
-MathGeo download(https://github.com/HIT-CenterOfGeophysics/MathGeo2017) 
+MathGeo [download](https://github.com/HIT-CenterOfGeophysics/MathGeo2017) 
 
 MathGeo2017 is an open-source software package for sparse transform, seismic data processing, and reproducible computational experiments.
 
@@ -64,12 +64,12 @@ Signal processing, Seismic data processing
 
 # Links
 
-HIT(http://www.hit.edu.cn/)
+[HIT](http://www.hit.edu.cn/)
 
-HIT Math Department(http://math.hit.edu.cn/)
+[HIT Math Department](http://math.hit.edu.cn/)
 
-UCLA CAM(http://www.math.ucla.edu/applied/cam/)
+[UCLA CAM](http://www.math.ucla.edu/applied/cam/)
 
-MyPlayground(http://1950751q0x.iok.la/)
+[MyPlaygroun]d(http://1950751q0x.iok.la/)
 
-HIT homepage(http://homepage.hit.edu.cn/pages/siweiyu)
+[HIT homepage](http://homepage.hit.edu.cn/pages/siweiyu)
