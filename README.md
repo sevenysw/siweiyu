@@ -1,12 +1,12 @@
 # Personal information
 
-### Siwei Yu
+Siwei Yu
 
-### Lecture, Department of Mathematics
+Lecture, Department of Mathematics
 
-### Harbin Institute of Technology
+Harbin Institute of Technology
 
-### Harbin 150001, China
+Harbin 150001, China
 
 # Contact
 
