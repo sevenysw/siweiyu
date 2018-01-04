@@ -28,6 +28,12 @@ siweiyu@hit.edu.cn
 
 ***
 
+# Research Interests
+
+Optimization algoirthm, Compressive sensing, Deep learning
+
+Signal processing, Seismic data processing
+
 # Publication
 
 MathGeo [download](https://github.com/HIT-CenterOfGeophysics/MathGeo2017) 
@@ -56,11 +62,6 @@ MathGeo2017 is an open-source software package for sparse transform, seismic dat
 
 1. L. Kong, S. Yu, L. Cheng, H. Yang, Application of compressive sensing to seismic data reconstruction, ACTA SEISMOLOGICA SINICA, 2012, 34 (5), 659-666
 
-# Research Interests
-
-Optimization algoirthm, Compressive sensing, Deep learning
-
-Signal processing, Seismic data processing
 
 # Links
 
